@@ -1,5 +1,13 @@
 🚦 Traffic Light Controller using FSM (Verilog)
 
+**Author: Anubhav**  
+
+[![Language](https://img.shields.io/badge/Language-Verilog-blue)](https://www.verilog.com/)  
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/)  
+[![Simulation](https://img.shields.io/badge/Tool-GTKWave-orange)](https://gtkwave.sourceforge.net/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+
+
 📌 Overview
 This project implements a Traffic Light Controller using a Finite State Machine (FSM) in Verilog.
 It controls signals for a highway and a side road using a timed sequence of states.
@@ -112,8 +120,3 @@ The testbench:
 - State vs output understanding
 - Hardware realization using flip-flops and logic gates
 - Writing testbenches and analyzing waveforms
-
-
-👨‍💻 Author
-
-Anubhav
