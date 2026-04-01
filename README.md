@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
 
-📌 Overview.
+📌 Overview
 This project implements a Traffic Light Controller using a Finite State Machine (FSM) in Verilog.
 It controls signals for a highway and a side road using a timed sequence of states.
 
