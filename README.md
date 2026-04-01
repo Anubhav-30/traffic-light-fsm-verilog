@@ -1,4 +1,6 @@
-🚦 Traffic Light Controller using FSM (Verilog)
+<h1 align="center">🚦 Traffic Light Controller using FSM (Verilog)</h1>
+<p align="center">
+
 
 **Author: Anubhav**  
 
