@@ -1,4 +1,4 @@
-<h1 align="center">🚦 Traffic Light Controller using FSM  (Verilog)</h1>
+<h1 align="center">🚦 Traffic Light Controller using FSM (Verilog)</h1>
 <p align="center">
 
 
